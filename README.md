@@ -33,7 +33,7 @@ You can see the following in terminal
 [nodemon] watching path(s): *.*
 [nodemon] watching extensions: js,hbs
 [nodemon] starting `node src/app.js`
-Server is up on port 30000
+Server is up on port 3000
 ```
 
 ### Open in Browser
